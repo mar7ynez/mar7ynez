@@ -1,6 +1,6 @@
 Hello,
 
-My name is Martin and i'm 24 y.o. from Blagoevgrad, Bulgaria.
+My name is Martin, I'm 24 y.o. from Bulgaria.
 
             <> 🔭 I’m very interested in computer technologies, and currently I'm focused to learn programming.
             |
